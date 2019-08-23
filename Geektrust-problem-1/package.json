@@ -7,7 +7,7 @@
     "build": "babel index.js -d dist",
     "prepublish": "npm run build",
     "start": "babel-node ./index.js",
-    "test": "cross-env NODE_ENV=test nyc mocha ./test/**/*.js ",
+    "test": "cross-env NODE_ENV=test mocha ./test/**/*.js --require @babel/register ",
     "debug": "babel-node --debug ./index.js"
   },
   "author": "Swayam",

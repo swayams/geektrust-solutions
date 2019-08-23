@@ -1,0 +1,21 @@
+{"message":"AIR is already an ally of EARTH","level":"info","service":"Logging Service","timestamp":"2019-08-23 15:46:15"}
+{"message":"TEST is already an ally of TEST","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:09:13"}
+{"message":"TEST is already an ally of TEST","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:09:44"}
+{"message":"AIR is already an ally of EARTH","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:10:41"}
+{"message":"AIR is already an ally of EARTH","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:10:50"}
+{"message":"AIR is already an ally of EARTH","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:11:28"}
+{"message":"AIR is already an ally of EARTH","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:12:13"}
+{"message":"Message is valid, AIR is now an ally of EARTH","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:12:33"}
+{"message":"Message is valid, TEST is now an ally of TEST","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:12:41"}
+{"message":"Message is valid, TEST is now an ally of TEST","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:14:31"}
+{"message":"TEST is already an ally of TEST","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:14:31"}
+{"message":"Message is valid, SENDER is now an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:16:53"}
+{"message":"SENDER is already an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:16:53"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-23 16:26:34"}
+{"message":"Message is valid, SENDER is now an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:26:34"}
+{"message":"SENDER is already an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:26:34"}
+{"message":"SENDER is already an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:26:34"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-23 16:28:04"}
+{"message":"message by sender isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:28:04"}
+{"message":"Message is valid, SENDER is now an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:28:04"}
+{"message":"SENDER is already an ally of KINGDOM","level":"info","service":"Logging Service","timestamp":"2019-08-23 16:28:04"}
