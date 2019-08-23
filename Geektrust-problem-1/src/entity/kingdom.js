@@ -1,3 +1,4 @@
+import '../utils/stringUtils'
 export default class Kingdom {
     
 
@@ -8,7 +9,7 @@ export default class Kingdom {
     }
 
     processAlly = (sender, message) => {
-       message.includes(this.symbol) &&  
+       message.includeAllCharsOf(this.symbol) &&  
         this.allies.filter( a => a.name == sender.name) === -1 
         ? this.allies.push(sender) : console.log('sender is already an ally')
     }

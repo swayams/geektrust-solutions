@@ -12,7 +12,9 @@
   },
   "author": "Swayam",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
@@ -27,10 +29,14 @@
     "mocha": "^6.2.0",
     "nyc": "^14.1.1"
   },
-  
   "nyc": {
-    "require": ["@babel/register"],
-    "reporter": [ "lcov", "text" ]
+    "require": [
+      "@babel/register"
+    ],
+    "reporter": [
+      "lcov",
+      "text"
+    ]
   },
   "sourceMap": false,
   "instrument": true

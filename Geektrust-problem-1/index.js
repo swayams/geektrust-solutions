@@ -5,6 +5,6 @@ let kingdom = new Kingdom('panda', 'Earth')
 
 let sender = new Kingdom('Owl', 'Air')
 
-console.log(kingdom, sender)
+console.log(kingdom.allies.length)
 kingdom.processAlly(sender, 'zzpzaznda')
-console.log(kingdom)
+console.log(kingdom.allies.length)
