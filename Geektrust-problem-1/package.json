@@ -1,14 +1,16 @@
 {
-  "name": "geektrust-problem5",
+  "name": "Geektrust-problem5",
   "version": "1.0.0",
   "description": "solution to geektrust problem 1",
   "main": "index.js",
   "scripts": {
+    "build": "babel index.js -d dist",
+    "prepublish": "npm run build",
     "start": "babel-node ./index.js",
-    "test": "nyc mocha --require @babel/register './test/**/*.js'",
+    "test": "cross-env NODE_ENV=test nyc mocha ./test/**/*.js ",
     "debug": "babel-node --debug ./index.js"
   },
-  "author": "swayam",
+  "author": "Swayam",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
@@ -19,7 +21,17 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/register": "^7.5.5",
     "babel-node": "0.0.1-security",
+    "babel-plugin-istanbul": "^5.2.0",
+    "chai": "^4.2.0",
+    "cross-env": "^5.2.0",
     "mocha": "^6.2.0",
     "nyc": "^14.1.1"
-  }
+  },
+  
+  "nyc": {
+    "require": ["@babel/register"],
+    "reporter": [ "lcov", "text" ]
+  },
+  "sourceMap": false,
+  "instrument": true
 }
