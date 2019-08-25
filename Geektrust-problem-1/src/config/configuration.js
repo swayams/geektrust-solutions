@@ -1,5 +1,5 @@
 
-const list = [
+const Emblems = [
     { name: 'air', symbol: 'owl'},
     { name: 'water', symbol: 'octopus'},
     { name: 'land', symbol: 'panda'},
@@ -7,4 +7,6 @@ const list = [
     { name: 'ice', symbol: 'mammoth'}
 ]
 
-export default list
+const VotesToWin = 3
+const MessagesToBeCounted = 6
+export  { Emblems, VotesToWin, MessagesToBeCounted }

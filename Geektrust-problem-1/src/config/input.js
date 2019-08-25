@@ -1,4 +1,13 @@
-const input = [
+
+//problem 1 
+
+export const problem1 = [
+    [ "Air"  , "oaaawaala"],
+    [ "land" , "a1d22n333a4444p"],
+    [ "ice"  , "zmzmzmzaztzozh"]
+]
+
+const _messages = [
     
 "Summer is coming",
 "a1d22n333a4444p",
@@ -27,12 +36,11 @@ const input = [
 "Walar Morghulis: All men must die."
 ]
 
-//problem 1 
 
-let prob1Input = [
-    [ "Air"  , "oaaawaala"],
-    [ "land" , "a1d22n333a4444p"],
-    [ "ice"  , "zmzmzmzaztzozh"]
-]
 
-export  {input, prob1Input} 
+
+export const problem2 = {
+    messages: _messages,
+    claimants: ['air', 'water']
+}
+

@@ -3,3 +3,7 @@
 /.nyc_output
 /coverage
 /package-lock.json
+
+./log
+
+./log/*

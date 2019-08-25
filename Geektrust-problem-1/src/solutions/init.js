@@ -1,10 +1,10 @@
-import list from './../config/kingdoms';
+import { Emblems } from '../config/configuration';
 import Kingdom from './../entity/kingdom';
 
 
 
-let kingdoms = []
-list.forEach( k => kingdoms.push(new Kingdom(k.symbol, k.name)))
+let ListOfKingdoms = []
+Emblems.forEach( k => ListOfKingdoms.push(new Kingdom(k.symbol, k.name)))
 
 
-export default kingdoms
+export default ListOfKingdoms

@@ -1,0 +1,4 @@
+{"message":"Message is valid, SPACE is now an ally of AIR","level":"info","service":"Logging Service","timestamp":"2019-08-25 23:06:27"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-25 23:06:27"}
+{"message":"Message is valid, SPACE is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-25 23:06:27"}
+{"message":"\n\n Shan is the new King with 3 allies","level":"info","service":"Logging Service","timestamp":"2019-08-25 23:06:27"}
