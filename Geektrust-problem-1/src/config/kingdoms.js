@@ -2,8 +2,8 @@
 const list = [
     { name: 'air', symbol: 'owl'},
     { name: 'water', symbol: 'octopus'},
-    { name: 'earth', symbol: 'dragon'},
-    { name: 'space', symbol: 'gorilla'},
+    { name: 'land', symbol: 'panda'},
+    { name: 'fire', symbol: 'dragon'},
     { name: 'ice', symbol: 'mammoth'}
 ]
 

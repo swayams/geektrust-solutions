@@ -1,31 +1,18 @@
 import kingdoms from './init';
-import input from './../config/messages';
+import {prob1Input} from './../config/messages';
 import expressions from './../utils/mathUtils';
 import logger from './../utils/loggingUtils';
+import Kingdom from '../entity/kingdom';
 
-const space = kingdoms.find(k => k.name == 'SPACE')
-
-
-do {
-    if(space.allies > 0) {
-       
-        logger.info(`${space.name} failed to get adequate allies,
-        only ${space.allies.length} kingdoms supported
-        trying again. `)
-        s
-
-    }
-      
+const shansKingdom = new Kingdom('Gorilla', 'space')
 
 
-    kingdoms.forEach(k => {
-        let randomIndex = expressions.random(input.length) 
-        let msg = input[randomIndex]
-        console.log( msg)
-        k.processAlly(space, msg )
-    })
-} while(space.allies < 3) 
+prob1Input.forEach( set => {
+    console.log(set[0].toUpperCase())
+    let reciever = kingdoms.find(k => k.name == set[0].toUpperCase())
+    reciever.processAlly(shansKingdom, set[1])
+})
 
-if( space.allies >= 3) {
-    logger.info(`${space.name} is the new ruling faction of Southeros`  )
+if(shansKingdom.allies.length >= 3) {
+    logger.info(`\n\n Shan is the new King with ${shansKingdom.allies.length} allies`)
 }

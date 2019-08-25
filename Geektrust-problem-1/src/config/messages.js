@@ -27,4 +27,12 @@ const input = [
 "Walar Morghulis: All men must die."
 ]
 
-export default input 
+//problem 1 
+
+let prob1Input = [
+    [ "Air"  , "oaaawaala"],
+    [ "land" , "a1d22n333a4444p"],
+    [ "ice"  , "zmzmzmzaztzozh"]
+]
+
+export  {input, prob1Input} 

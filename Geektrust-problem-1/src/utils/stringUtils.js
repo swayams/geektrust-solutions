@@ -3,12 +3,12 @@ import logger from './loggingUtils';
 
 String.prototype.includesAllCharsOf = function(seed)  {
     if( seed.length < this.length) {
-        let thisArr = this.split('')
+        let thisArr = this.toUpperCase().split('')
         let arr =  seed.split('')
 
         let isValid = true
 
-        arr.forEach( ch => {
+        arr.every( ch => {
             let index = thisArr.indexOf(ch)
             if(index > -1) {
                 thisArr.splice(index, 1)

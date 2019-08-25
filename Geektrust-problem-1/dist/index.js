@@ -1,12 +1,2 @@
-"use strict";
-
-var _kingdom = _interopRequireDefault(require("./src/entity/kingdom"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
-
-console.log('index');
-var kingdom = new _kingdom["default"]('panda', 'Earth');
-var sender = new _kingdom["default"]('Owl', 'Air');
-console.log(kingdom, sender);
-kingdom.processAlly(sender, 'zzpzaznda');
-console.log(kingdom);
+"use strict";require("./src/solutions/problem1");
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJhQUFBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICcuL3NyYy9zb2x1dGlvbnMvcHJvYmxlbTEnIl19
