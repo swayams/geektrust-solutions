@@ -5,8 +5,8 @@ export default class Kingdom {
 
     constructor(symbol, name) {
         this.allies = []
-        this.name = name
-        this.symbol = symbol
+        this.name = name.toUpperCase()
+        this.symbol = symbol.toUpperCase()
     }
 
     processAlly = (sender, message) => { 
@@ -16,6 +16,7 @@ export default class Kingdom {
         let isMessageValid = message.includesAllCharsOf(this.symbol)
         if(isMessageValid) {
             this.allies.push(sender)
+            sender.allies.push(this)
             logger.info(`Message is valid, ${sender.name.toUpperCase()} is now an ally of ${this.name.toUpperCase()}`)
         } else {
             logger.info(`Message by ${sender.name.toUpperCase()} isn't valid`)
