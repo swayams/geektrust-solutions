@@ -2020,3 +2020,133 @@
 {"message":" Ruler has been selected. New Ruler is WATER with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 19:27:59"}
 {"message":" Ruler has been selected. New Ruler is WATER with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 19:28:02"}
 {"message":" Ruler has been selected. New Ruler is WATER with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 19:28:05"}
+{"message":"Message is valid, SPACE is now an ally of AIR","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:23"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:23"}
+{"message":"Message is valid, SPACE is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:23"}
+{"message":"\n\n Shan is the new King with 3 allies","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:23"}
+{"message":"0 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"Message is valid, AIR is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:26"}
+{"message":"1 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"Message is valid, WATER is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:29"}
+{"message":"2 Ruler can't be determined. Re-processing ballot \n        AIR : 0 \n        WATER : 1\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:32"}
+{"message":"3 Ruler can't be determined. Re-processing ballot \n        AIR : 0 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"Message is valid, AIR is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"Message is valid, WATER is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:35"}
+{"message":"4 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 1\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"Message is valid, AIR is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:38"}
+{"message":"5 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"Message is valid, AIR is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:41"}
+{"message":"6 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"Message is valid, WATER is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:44"}
+{"message":"7 Ruler can't be determined. Re-processing ballot \n        AIR : 0 \n        WATER : 1\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":"Message is valid, AIR is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":"Message is valid, AIR is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":"Message is valid, WATER is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:47"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:50"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:54"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:48:57"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:00"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:03"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:06"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:09"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:12"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:15"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:18"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:21"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:24"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:27"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:30"}
+{"message":" Ruler has been selected. New Ruler is AIR with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:49:33"}
+{"message":"Message is valid, SPACE is now an ally of AIR","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:30"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:30"}
+{"message":"Message is valid, SPACE is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:30"}
+{"message":"\n\n Shan is the new King with 3 allies","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:30"}
+{"message":"0 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:33"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:33"}
+{"message":"Message is valid, AIR is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:33"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:34"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:34"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:34"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:34"}
+{"message":"1 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":"Message is valid, AIR is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":"Message is valid, WATER is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":"Message is valid, WATER is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:37"}
+{"message":" Ruler has been selected. New Ruler is WATER with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:52:40"}
+{"message":"Message is valid, SPACE is now an ally of AIR","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:35"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:35"}
+{"message":"Message is valid, SPACE is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:35"}
+{"message":"\n\n Shan is the new King with 3 allies","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:35"}
+{"message":"\n        0 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2\n        ","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"Message is valid, AIR is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:39"}
+{"message":"\n        1 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2\n        ","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":"Message is valid, AIR is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":"Message is valid, WATER is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":"Message is valid, WATER is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:42"}
+{"message":" Ruler has been selected. New Ruler is WATER with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 21:59:45"}
+{"message":"Message is valid, SPACE is now an ally of AIR","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:09"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:09"}
+{"message":"Message is valid, SPACE is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:09"}
+{"message":"\n\n Shan is the new King with 3 allies","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:09"}
+{"message":"\n        0 Ruler can't be determined. Re-processing ballot \n        AIR : 1 \n        WATER : 0\n        votes to win : 2\n        ","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":"Message is valid, AIR is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":"Message by AIR isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":"Message by WATER isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":"Message is valid, WATER is now an ally of FIRE","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":"Message is valid, WATER is now an ally of ICE","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:12"}
+{"message":" Ruler has been selected. New Ruler is WATER with 2 votes","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:12:15"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
+{"message":"Message by SPACE isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
+{"message":"SPACE is already an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}

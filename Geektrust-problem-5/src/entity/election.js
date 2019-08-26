@@ -42,6 +42,13 @@ const _processMessagesForClaimant = (sender, msgs) => {
     }
 }
 
+
+const _checkTie = (voteCount) => {
+    if( claimants.filter(c => c.allies.length == voteCount).length > 1)
+        return true
+    return false
+}
+
 const _declareRuler = (votesToWin) => {
 
     let winningVotes = votesToWin 
@@ -56,31 +63,40 @@ const _declareRuler = (votesToWin) => {
 
     console.log('\n\n')
 
-    if(ruler !== null) {
+    if(ruler !== null && !_checkTie(winningVotes)) {
         logger.info(` Ruler has been selected. New Ruler is ${ruler.name} with ${winningVotes} votes`)
         return true
-    } else {
-        logger.info(`${pollCount++} Ruler can't be determined. Re-processing ballot 
+    } else if(_checkTie(winningVotes)) {
+        logger.info(`
+        More than one claimants have recieved the highest number of votes. Retrying
+        `)
+    } 
+    
+    else {
+        logger.info(`
+        ${pollCount++} Ruler can't be determined. Re-processing ballot 
         ${claimants[0].name} : ${claimants[0].allies.length} 
         ${claimants[1].name} : ${claimants[1].allies.length}
-        votes to win : ${votesToWin}`)
+        votes to win : ${votesToWin}
+        `)
         return false
     }
  
 }
 
+
 const performBallot = (messages, controls) => {
 
     console.log('\n\n Problem 2')
     _processClaimants(controls.claimants, controls.ListOfKingdoms)
-    setInterval( function() {
+    let id = setInterval( function() {
         if( !_declareRuler(controls.VotesToWin) ) {
             claimants.forEach( c => c.resetAlliances())
             nonClaimants.forEach( c=> c.resetAlliances())
             
             _processMessages(messages)
         } else {
-            clearInterval()
+            clearInterval(id)
         }
     }, 3000)
 }
