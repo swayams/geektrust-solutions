@@ -14,7 +14,7 @@ String.prototype.includesAllCharsOf = function(seed)  {
             if(index > -1) {
                 thisArr.splice(index, 1)
             } else {
-                logger.warn(`${ch} doesnt exist`)
+                
                 isValid = false
                 return
             }

@@ -1,9 +1,12 @@
 /node_modules
 
 /.nyc_output
+/.nyc_output/*
 /coverage
 /package-lock.json
 
 ./log
-
 ./log/*
+
+./dist
+./dist/*

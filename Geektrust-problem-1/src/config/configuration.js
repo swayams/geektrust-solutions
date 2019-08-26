@@ -7,6 +7,6 @@ const Emblems = [
     { name: 'ice', symbol: 'mammoth'}
 ]
 
-const VotesToWin = 3
-const MessagesToBeCounted = 6
-export  { Emblems, VotesToWin, MessagesToBeCounted }
+const VotesToWin = 2
+const PollRecount = 6
+export  { Emblems, VotesToWin, PollRecount }

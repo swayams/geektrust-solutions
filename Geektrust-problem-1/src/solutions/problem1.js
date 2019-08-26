@@ -5,9 +5,7 @@ import Kingdom from '../entity/kingdom';
 
 const shansKingdom = new Kingdom('Gorilla', 'space')
 
-
 problem1.forEach( set => {
-    console.log(set[0].toUpperCase())
     let receiver = ListOfKingdoms.find(k => k.name == set[0].toUpperCase())
     receiver.processAlly(shansKingdom, set[1])
 })

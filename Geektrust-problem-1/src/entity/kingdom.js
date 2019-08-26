@@ -9,6 +9,12 @@ export default class Kingdom {
         this.symbol = symbol.toUpperCase()
     }
 
+    resetAlliances = () => {
+        while(this.allies.length > 0) {
+            this.allies.pop()
+        }
+    }
+
     _addAlly = (sender) => {
         this.allies.push(sender)
             sender.allies.push(this)
