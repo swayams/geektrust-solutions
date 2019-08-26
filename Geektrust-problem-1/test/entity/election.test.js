@@ -1,1 +1,1 @@
-describe()
+describe('Ballot process', )
