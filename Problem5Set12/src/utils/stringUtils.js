@@ -1,28 +1,31 @@
 
 import logger from './loggingUtils';
 
-String.prototype.includeAllCharsOf = function(seed)  {
+String.prototype.includesAllCharsOf = function(seed)  {
     if( seed.length < this.length) {
-        let thisArr = this.split('')
-        let arr =  seed.split('')
+        let thisArr = this.toLowerCase().split('')
+        let arr =  seed.toLowerCase().split('')
 
-        let isvalid = true
+        let isValid = true
 
         arr.forEach( ch => {
+          
             let index = thisArr.indexOf(ch)
             if(index > -1) {
-                thisArr.pop(index)
+                thisArr.splice(index, 1)
             } else {
-                isvalid = false
+                
+                isValid = false
                 return
             }
         })
 
-        return isvalid
+        return isValid
 
     } else {
         logger.warn('seed string is longer than this string')
+        return false
     }
     
-    return true
+    
 } 

@@ -1,13 +1,13 @@
 {
   "name": "Geektrust-problem5",
   "version": "1.0.0",
-  "description": "solution to geektrust problem 1",
+  "description": "solution to geektrust problem 5",
   "main": "index.js",
   "scripts": {
     "build": "babel index.js -d dist",
     "prepublish": "npm run build",
     "start": "babel-node ./index.js",
-    "test": "cross-env NODE_ENV=test nyc mocha ./test/**/*.js ",
+    "test": "cross-env NODE_ENV=test nyc mocha ./test/**/*",
     "debug": "babel-node --debug ./index.js"
   },
   "author": "Swayam",
