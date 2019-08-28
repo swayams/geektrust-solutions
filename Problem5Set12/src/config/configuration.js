@@ -1,5 +1,5 @@
 
-const Emblems = [
+const KingdomList = [
     { name: 'air', symbol: 'owl'},
     { name: 'water', symbol: 'octopus'},
     { name: 'land', symbol: 'panda'},
@@ -9,4 +9,4 @@ const Emblems = [
 
 const VotesToWin = 2
 const PollRecount = 6
-export  { Emblems, VotesToWin, PollRecount }
+export  { KingdomList, VotesToWin, PollRecount }

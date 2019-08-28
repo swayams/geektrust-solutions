@@ -1,5 +1,5 @@
-import logger from './../utils/loggingUtils';
-import expressions from './../utils/mathUtils';
+import logger from '../utils/loggingUtils';
+import expressions from '../utils/mathUtils';
 
 const claimants = [], nonClaimants = []
 let pollCount = 0

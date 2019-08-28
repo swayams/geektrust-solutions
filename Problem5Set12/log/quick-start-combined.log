@@ -2150,3 +2150,18 @@
 {"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
 {"message":"SPACE is already an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
 {"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-26 22:13:53"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-28 12:10:18"}
+{"message":"Message by SPACE isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:10:18"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:10:18"}
+{"message":"SPACE is already an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:10:18"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-28 12:10:18"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-28 12:10:51"}
+{"message":"Message by SPACE isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:10:51"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:10:51"}
+{"message":"SPACE is already an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:10:51"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-28 12:10:51"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-28 12:32:28"}
+{"message":"Message by SPACE isn't valid","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:32:28"}
+{"message":"Message is valid, SPACE is now an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:32:28"}
+{"message":"SPACE is already an ally of LAND","level":"info","service":"Logging Service","timestamp":"2019-08-28 12:32:28"}
+{"message":"seed string is longer than this string","level":"warn","service":"Logging Service","timestamp":"2019-08-28 12:32:28"}

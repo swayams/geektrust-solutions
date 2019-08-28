@@ -1,2 +1,0 @@
-"use strict";require("./src/solutions/problem1");
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL2luZGV4LmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJhQUFBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICcuL3NyYy9zb2x1dGlvbnMvcHJvYmxlbTEnIl19
